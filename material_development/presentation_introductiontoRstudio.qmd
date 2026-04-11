@@ -112,6 +112,16 @@ editor: visual
     -   *.qmd* : Quarto documents
     -   *.rmd* : Rmarkdown Documents
     -   RStudio can also work with other languages such as Python, C++ and more!
+    
+## Data for this Course 
+
+For this course, we will be using the: 
+
+[Activities in FE, Apprenticeships & Community Learning by Home Region, Medium of Delivery, Age & Level]<https://stats.gov.wales/en-GB/126fd3f5-a8f4-4a8b-bc14-67b6118f0677#data> 
+
+Please ensure you have a .csv copy downloaded and accessible for the course. 
+
+This will need to be copied into the data folder ahead of each session.
 
 ## Next Session
 
