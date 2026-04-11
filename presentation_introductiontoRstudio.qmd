@@ -1,0 +1,131 @@
+---
+title: "Introduction to RStudio"
+author: "Thomas Wise"
+format: 
+  revealjs:
+    smaller: true
+    theme: dark
+editor: visual
+---
+
+## Introduction & Welcome
+
+-   Part 1: Outline of this series, discussion of expectations and learning objectives
+-   Part 2: Setup, Walk-through and Exploration of RStudio
+-   Part 3: Understanding Basic R
+
+## The Objective
+
+-   Bring your skill level up to one appropriate with your working need, whether:
+    -   Beginner - being able to run & edit R Scripts, with an understanding of errors and how to solve them
+    -   Working - being able to write your own, or edit existing code, complete simple processing, cleaning and manipulation of data in addition to applying clean coding fundamentals to analysis of data
+    -   Practitioner - being able to write code for more complex tasks, making data visualisations and creating basic reproducible analytical pipelines using version control systems.
+-   It is important to remember this course is only the start of your journey, to make you ask questions, inspire you to learn more and give you direction of where to go.
+
+## Series Structure
+
+-   Introduction to Rstudio
+
+-   Getting Help & Editing Code
+
+-   Coding 101 (Reading, Writing and Arithmetic)
+
+-   Fundamentals of Good Practice
+
+-   Data Analytics & Visualisation (Part 1 & 2)
+
+-   Reproducibility
+
+-   Mini-Project
+
+-   Welsh Government Version Control
+
+## Session Structure
+
+-   Each session will be 90 minutes, two sections \~40 minutes each
+-   Last Session and homework review, with space for questions and clarification
+-   Topic Content/Theory Part 1
+-   Session Practical Part 1
+-   Break
+-   Topic Content/Theory Part 2
+-   Session Practical Part 2
+-   Review, Reflection and Setup for the next Session
+
+## Guidelines and Expectations
+
+-   During the sessions:
+    -   If you have questions - Ask! Be Curious, discussion helps keep these sessions interesting!
+    -   The learning curve for R can be steep, so we'll pace ourselves but please let me know if you need more support!
+    -   Camera's are entirely optional, I know some people don't like sharing their concentration faces!
+-   Outside the sessions:
+    -   As there is a lot of you, ideally please hold questions till the following session, as then we can address them as a group.
+    -   However any urgent concerns you can email me!
+
+## Worksheets, Content & Presentations
+
+-   All content will be available ahead of time via github
+
+-   Each session will have a beginners and advanced worksheet for during the session
+
+-   Each will also have out-of-session exercises, to provide extensions and additional practice
+
+-   Solutions and the Presentations will also be available too!
+
+## Accessibility
+
+-   If you have any additional accessibility requires, please let me know!
+-   I am always happy to adapt the content to group needs, just drop me an email!
+
+## Comments & Support
+
+-   If you have any feedback, please let myself or Annie know
+-   This series is experimental and adaptive so share if....
+    -   Colour scheme are awful
+    -   Text/Code too small
+    -   Poor pacing or going too fast
+    -   Anything else I can do to improve your learning
+
+# Break
+
+## Getting Started with RStudio
+
+-   During Session Zero, you should have been shown how to install and start your local version of RStudio.
+-   For any future technical issues with RStudio itself please speak to \[INSERT CONTACT\]
+
+# RStudio GUI Walkthrough
+
+## Executing Simple Code
+
+-   To execute code row by row, you can use either
+    -   *Control + Enter* or hit the Run button
+-   This will execute the code through the Console
+    -   This runs the code through whichever version of R you have, for me that R4.5.1
+
+## File Types
+
+-   Standard Script Types
+    -   *.R* : R Script
+    -   *.Rproj* : R Project File
+    -   *.RData* : R Data File
+    -   *.Rhistory* : R History File
+-   Notebooks, Markdown and Application Types
+    -   *.qmd* : Quarto documents
+    -   *.rmd* : Rmarkdown Documents
+    -   RStudio can also work with other languages such as Python, C++ and more!
+
+## Next Session
+
+-   Topic: Getting Help & Editing Code
+    -   This session will focus on the basics of editing code, and how to fix common errors which occur
+    -   It will also actively discuss how to begin searching for answers relating to your errors
+-   Ahead of the next session please:
+    -   Make sure you can access and run the worksheet successfully.
+    -   Make sure you can access the github area which provides all of these course materials.
+    -   Make sure you are familiar with the GUI and ensure your setup works for you!
+-   Any issues please contact
+    -   tom.wise\@ons.gov.uk
+
+## Further Reading and Additional Material
+
+-   [R for Data Science (2e)](https://r4ds.hadley.nz/)
+-   [Quality Assurance of Code for Analysis and Research (ONS)](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html)
