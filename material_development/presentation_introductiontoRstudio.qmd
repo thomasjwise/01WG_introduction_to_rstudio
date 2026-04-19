@@ -26,9 +26,9 @@ editor: visual
 
 -   Introduction to Rstudio
 
--   Getting Help & Editing Code
-
 -   Coding 101 (Reading, Writing and Arithmetic)
+
+-   Getting Help & Editing Code
 
 -   Fundamentals of Good Practice
 
@@ -58,8 +58,10 @@ editor: visual
     -   The learning curve for R can be steep, so we'll pace ourselves but please let me know if you need more support!
     -   Camera's are entirely optional, I know some people don't like sharing their concentration faces!
 -   Outside the sessions:
-    -   As there is a lot of you, ideally please hold questions till the following session, as then we can address them as a group.
-    -   However any urgent concerns you can email me!
+    -   For general usage concerns, please post it in the R & Python Teams Channel 
+    -   For specific, course related questions:
+        - Please hold questions till the following sessions 
+        - But anything urgent, you can email me direct (email at the end of the slide deck)
 
 ## Worksheets, Content & Presentations
 
@@ -91,8 +93,8 @@ editor: visual
 
 -   During Session Zero, you should have been shown how to install and start your local version of RStudio.
 -   For any future technical issues with RStudio please:
-    -   Post in the R & Python teams channel 
-    -   Email kas.transformation@gov.wales 
+    -   Post in the R & Python teams channel
+    -   Email kas.transformation\@gov.wales
 
 # RStudio GUI Walkthrough
 
